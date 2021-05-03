@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> Humble yourself before you get humbled
+> Humble yourself before life humbles you - Moaz Khan
 
 > Don't be consumed by *consumerism*
 
