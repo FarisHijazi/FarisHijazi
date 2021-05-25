@@ -1,11 +1,15 @@
 ### Hi there 👋
 
+### I am my thoughts and my thoughts are me:
+
 > Humble yourself before life humbles you - Moaz Khan
 
 > Don't be consumed by *consumerism*
 
 > Less is more
- 
+
+### About me
+
 - 🔭 I’m currently working on **private projects**
 - 🌱 I’m currently learning **management**
 - 👯 I’m looking to collaborate on **[SuperGoogle](https://github.com/FarisHijazi/SuperGoogle)**
