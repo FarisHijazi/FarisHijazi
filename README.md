@@ -1,4 +1,4 @@
-### Hi there 👋:godmode:
+### :octocat: Hi there 👋:godmode:
 
 ### I am my thoughts, and my thoughts are me (you are your thoughts too):
 
@@ -8,8 +8,7 @@
 
 > Less is more
 
-### About me
-
+### About me :shipit: 
 - :feelsgood: DOOM is great
 - 🔭 I’m currently working on **private projects**
 - 🌱 I’m currently learning **management**
