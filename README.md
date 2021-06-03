@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋:godmode:
 
-### I am my thoughts and my thoughts are me:
+### I am my thoughts, and my thoughts are me (you are your thoughts too):
 
 > Humble yourself before life humbles you - Moaz Khan
 
@@ -10,6 +10,7 @@
 
 ### About me
 
+- :feelsgood: DOOM is great
 - 🔭 I’m currently working on **private projects**
 - 🌱 I’m currently learning **management**
 - 👯 I’m looking to collaborate on **[SuperGoogle](https://github.com/FarisHijazi/SuperGoogle)**
