@@ -11,7 +11,7 @@
 ### About me :shipit: 
 - :feelsgood: DOOM is great
 - 🔭 I’m currently working on **private projects**
-- 🌱 I’m currently learning **management**
+- 🌱 I’m currently learning **management** and experimenting **documentation techniques** and **journaling**
 - 👯 I’m looking to collaborate on **[SuperGoogle](https://github.com/FarisHijazi/SuperGoogle)**
 - 💬 Ask me about **anything technical or life**
 - 📫 How to reach me: theefaris@gmail.com
