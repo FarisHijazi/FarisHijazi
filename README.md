@@ -1,4 +1,4 @@
-### :octocat: Hi there 👋:godmode:
+### :octocat: Greetings :godmode:
 
 ### I am my thoughts, and my thoughts are me (you are your thoughts too):
 
