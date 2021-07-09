@@ -1,5 +1,8 @@
 ### :octocat: Greetings :godmode:
 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FarisRHijazi)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Faris-Hijazi)
+
 ### I am my thoughts, and my thoughts are me (you are your thoughts too):
 
 > Humble yourself before life humbles you - Moaz Khan
@@ -10,14 +13,10 @@
 
 ### About me :shipit: 
 - :feelsgood: DOOM is great
-- 🔭 I’m currently working on **private projects**
+- 🔭 I’m currently working on **[SuperGoogle](https://github.com/FarisHijazi/SuperGoogle)** and 👯 looking to collaborate
 - 🌱 I’m currently learning **management** and experimenting **documentation techniques** and **journaling**
-- 👯 I’m looking to collaborate on **[SuperGoogle](https://github.com/FarisHijazi/SuperGoogle)**
-- 💬 Ask me about **anything technical or life**
 - 📫 How to reach me: theefaris@gmail.com
-- ⚡ Fun facts:
-   - in Linux you can press ctrl+T in the terminal to _transpose_ characters (swap) on each side of the cursor, helpful for many typos.
-   - This profile section can be created by making a repo with exactly your name
+- ⚡ Fun fact: in Linux you can press `ctrl+T` in the terminal to _transpose_ (swap) characters on each side of the cursor, helpful for many typos.
 
 <hr />
 
