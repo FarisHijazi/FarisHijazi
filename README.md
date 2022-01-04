@@ -5,7 +5,7 @@
 
 ### I am my thoughts, and my thoughts are me (you are your thoughts too):
 
-> Humble yourself before life humbles you - Moaz Khan
+> Humble yourself before life humbles you
 
 > Don't be consumed by *consumerism*
 
