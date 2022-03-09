@@ -5,6 +5,8 @@
 
 ### I am my thoughts, and my thoughts are me (you are your thoughts too):
 
+> Living on autopilot will make you diverge
+
 > Humble yourself before life humbles you
 
 > Don't be consumed by *consumerism*
