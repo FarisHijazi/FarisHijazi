@@ -17,7 +17,6 @@
 - 🔭 I’m currently working on **[SuperGoogle](https://github.com/FarisHijazi/SuperGoogle)** and 👯 looking to collaborate
 - 🌱 Here are some [cool multidimensional visualizations](https://github.com/FarisHijazi/PrivacyEnhancingTechnologies-projects) I worked on
 - 📫 How to reach me: theefaris@gmail.com
-- ⚡ Fun fact: in Linux you can press `ctrl+T` in the terminal to _transpose_ (swap) characters on each side of the cursor, helpful for many typos.
 
 <hr />
 
