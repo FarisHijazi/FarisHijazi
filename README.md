@@ -13,7 +13,7 @@
 
 ### About me :shipit: 
 - :feelsgood: DOOM is great
-- I keep a list of handy linux and `ffmpeg` commands at [handy-commands](https://github.com/FarisHijazi/handy-commands)
+- I keep a list of handy Linux `bash` and `ffmpeg` commands at [handy-commands](https://github.com/FarisHijazi/handy-commands)
 - 🔭 I’m currently working on **[SuperGoogle](https://github.com/FarisHijazi/SuperGoogle)** and 👯 looking to collaborate
 - 🌱 Here are some [cool multidimensional visualizations](https://github.com/FarisHijazi/PrivacyEnhancingTechnologies-projects) I worked on
 - 📫 How to reach me: theefaris@gmail.com
